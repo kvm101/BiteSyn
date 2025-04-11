@@ -1,0 +1,2 @@
+# BiteSyn
+Restaurant rating service
